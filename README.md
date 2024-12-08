@@ -51,7 +51,7 @@ school-management-system/
 
 ---
 ## Output
-**Check the file named ooutput.pdf**
+**Check the file named output.pdf**
 
 ---
 ## Setup Instructions
