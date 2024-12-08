@@ -44,7 +44,7 @@ school-management-system/
 ├── Teacherattendance.py         # Teacher attendance management
 ├── PayFees.py                   # Fees payment management
 ├── PaySalary.py                 # Salary payment management
-├── requirements.txt             # (Code for creating databases and tables)
+├── requirements.pdf             # (Code for creating databases and tables)
 └── README.md                    # Project documentation (this file)
 ```
 
@@ -58,7 +58,7 @@ school-management-system/
    ```
 
 2. . **Set Up the Database**  
-   Create a database named `csproject` and run SQL commands to create necessary tables. Refer to the project content (requirements.txt) for table structures.
+   Create a database named `csproject` and run SQL commands to create necessary tables. Refer to the project content (requirements.pdf) for table structures.
 
 4. **Run the Application**  
    ```bash
