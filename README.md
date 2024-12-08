@@ -8,6 +8,7 @@ Welcome to the **School Management System**, a Python-based application designed
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [File Structure](#file-structure)
+- [Output](#output)
 - [Setup Instructions](#setup-instructions)
 - [How to Use](#how-to-use)
 - [Customization Guide](#customization-guide)
@@ -49,7 +50,10 @@ school-management-system/
 ```
 
 ---
+## Output
+**Check the file named ooutput.pdf**
 
+---
 ## Setup Instructions
 1. **Clone the Repository**  
    ```bash
