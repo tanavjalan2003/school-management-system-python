@@ -46,6 +46,7 @@ school-management-system/
 ├── PayFees.py                   # Fees payment management
 ├── PaySalary.py                 # Salary payment management
 ├── requirements.pdf             # (Code for creating databases and tables)
+├── output.pdf                   # (Sample output end to end)
 └── README.md                    # Project documentation (this file)
 ```
 
